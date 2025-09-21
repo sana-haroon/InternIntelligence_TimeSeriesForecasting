@@ -19,7 +19,7 @@ The goal of this project is to build forecasting models that predict future weat
 ### ▶️ How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/InternIntelligence_TimeSeriesForecasting.git
+   git clone https://github.com/sana-haroon/InternIntelligence_TimeSeriesForecasting.git
    cd InternIntelligence_TimeSeriesForecasting
 2. Install dependencies:
     ```bash
